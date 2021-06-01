@@ -341,8 +341,7 @@
         "slightBlur": "Slight Blur",
         "removeBackground": "Remove background",
         "addBackground": "Add background",
-        "none": "None",
-        "desktopShareError": "Could not create desktop share"
+        "none": "None"
     },
     "feedback": {
         "average": "Average",

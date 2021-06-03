@@ -404,7 +404,7 @@
 		</data>
 		<key>Headers/JitsiMeetView.h</key>
 		<data>
-		+6KXspVO8RWZYzhVcOgBXRvTTKI=
+		QtTUcYrXKqXGiByRxVNCqr+EqYY=
 		</data>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<data>
@@ -412,7 +412,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WB9GSA2qpKz3tlxjyddk40IAmVw=
+		kDWoYyE6swVPquwL6jhU1j3JU5w=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -620,7 +620,7 @@
 		</data>
 		<key>assets/lang/main-de.json</key>
 		<data>
-		FMdMSh2BvZGoEWUjhaZTSNI+1V4=
+		bMKFwiIOPKzCBHjlMg+SXuvviQw=
 		</data>
 		<key>assets/lang/main-enGB.json</key>
 		<data>
@@ -740,7 +740,7 @@
 		</data>
 		<key>assets/lang/main.json</key>
 		<data>
-		FfdvUtL7KAbytGdyH5B5bnNxmOg=
+		SxOjIqThpROm9LhOen3AYi3xj2w=
 		</data>
 		<key>assets/node_modules/css-select/lib/procedure.json</key>
 		<data>
@@ -836,7 +836,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		dPlnNTYAjoHiy2PFQELMX8/CxYg=
+		sUgp01gLGW/VtybmZBkqWh2RnRU=
 		</data>
 		<key>outgoingRinging.wav</key>
 		<data>
@@ -1305,7 +1305,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/DEE2jhrGnYYVDm6cN4iYI9kDjj6MiHz8KXuBJXnTw=
+			bXV+R+MLXUxHX9xAg4Vefe491D6hKsixLoEeurLJXsY=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
@@ -1676,7 +1676,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yDcCQgM9QvmhJE4xF3PRVJZm3MboUcI7yOnd7gaezaw=
+			lQfXJ5IojoS/RKTHdPs6hlO6Eb8BhBFWKlVBA0ulLGU=
 			</data>
 		</dict>
 		<key>assets/lang/main-enGB.json</key>
@@ -1886,7 +1886,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lif+CNMmp/prmuhkF1sAi0xwO9oT4sRTY2Z63fJ4kRk=
+			9uvMFFEf7vE5I/oQRpbPHWxdjZICitf6vF83mFTy4ck=
 			</data>
 		</dict>
 		<key>assets/node_modules/css-select/lib/procedure.json</key>
@@ -2054,7 +2054,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HJRBavn70OLMwxMx7AJLRS5y41c2uzAQlABG4BqeTzY=
+			4DkAQPwRW1xrO1VTO5bUdoKlz0kZH5WNRi5OgJLWwOM=
 			</data>
 		</dict>
 		<key>outgoingRinging.wav</key>

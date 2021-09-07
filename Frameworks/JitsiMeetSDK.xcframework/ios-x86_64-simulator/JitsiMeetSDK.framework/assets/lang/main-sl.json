@@ -441,7 +441,7 @@
     "lockRoomPasswordUppercase": "Geslo",
     "lonelyMeetingExperience": {
         "button": "Invite others",
-        "youAreAlone": "You are the only one in the meeting"
+        "youAreAlone": "you are the only one in the meeting test"
     },
     "me": "jaz",
     "notify": {
